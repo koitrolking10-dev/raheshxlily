@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+flask
+requests
+psutil
+pycryptodome
+protobuf_decoder
